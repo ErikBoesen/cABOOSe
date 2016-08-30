@@ -1,0 +1,12 @@
+{
+	"name": "CABOOSE",
+	"version": "1.0.0",
+	"description": "ABOOS ABOOS ABOOS ABOOS ABOOS ABOOS ABOOS",
+	"scripts": {
+		"start": "node bot.js"
+	},
+	"main": "bot.js",
+	"dependencies": {
+		"discord.js": "*"
+	}
+}
